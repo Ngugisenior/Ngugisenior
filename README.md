@@ -24,4 +24,4 @@
 - 🤔 I’m looking for help with networking.
 - ⚡ Fun fact: Starfish isn't a fish.
 
-[![Ngugisenior's github stats]([![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ngugisenior)](https://github.com/LordDashMe/github-contribution-stats/))](https://github.com/Ngugisenior/github-readme-stats)
+[![Ngugisenior's github stats]([![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ngugisenior)](https://github.com/LordDashMe/github-contribution-stats/))
