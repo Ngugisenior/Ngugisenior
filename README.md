@@ -5,7 +5,7 @@
 <br/>
 <br/>
 <a href="https://www.linkedin.com/in/ngugimuiruri/">
-  <img align="left" alt="My LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="My LinkdeIN" width="20px" src="https://github.com/Ngugisenior/Ngugisenior/blob/master/banner.png" alt="Ngugisenior" />
 </a>
 <a href="https://twitter.com/TanveshT">
   <img align="left" alt="My Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
