@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/Ngugisenior/Ngugisenior/master/banner.png" alt="Ngugisenior Ngugisenior Banner">
+<img src="https://github.com/Ngugisenior/Ngugisenior/blob/master/Untitled%20design.gif">
 
 <br/>
 <br/>
