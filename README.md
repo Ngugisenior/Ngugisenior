@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 <img src="https://raw.githubusercontent.com/Ngugisenior/Ngugisenior/master/banner.png" alt="Ngugisenior Ngugisenior Banner">
-<!------------------------   Untitled design-970x250   ------------------------>
-<script type="text/javascript">
-var bannersnack_embed = {"hash":"bxk5wppub","width":970,"height":250,"t":1595340030,"userId":41921809,"type":"html5"};
-</script>
-<script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
+
 <br/>
 <br/>
 <a href="https://www.linkedin.com/in/ngugimuiruri/">
