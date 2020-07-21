@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/Ngugisenior/Ngugisenior/master/banner.png" alt="Tanvesh Takawale Banner">
+<img src="https://raw.githubusercontent.com/Ngugisenior/Ngugisenior/master/banner.png" alt="Ngugisenior Ngugisenior Banner">
 
 <br/>
 <br/>
-<a href="https://www.linkedin.com/in/tanvesh-takawale/">
+<a href="https://www.linkedin.com/in/ngugimuiruri/">
   <img align="left" alt="My LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/TanveshT">
