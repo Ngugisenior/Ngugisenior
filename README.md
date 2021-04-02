@@ -19,9 +19,11 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on IBM Master The Mainframe
-- 🌱 I’m currently learning IBM Global Quantum Summer School
-- 🤔 I’m looking for help with networking.
-- ⚡ Fun fact: Starfish isn't a fish.
+- 🔭 I’m currently an:
+    - IBM Z Student ambassador
+    - Kaspersky Lab Student Ambassador
+- 🌱 I’m currently learning Python, Nodejs & Oracle PL/SQL
+- 🤔 I’m looking for opportunities for personal growth.
+- ⚡ Fun fact: Perseverance is an essential prerequisite for growth.
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ngugisenior)](https://github.com/LordDashMe/github-contribution-stats/)
