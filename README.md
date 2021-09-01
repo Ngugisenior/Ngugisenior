@@ -22,7 +22,7 @@
 - 🔭 I’m currently an:
     - IBM Z Student ambassador
     - Kaspersky Lab Student Ambassador
-- 🌱 I’m currently learning Python, Nodejs & Oracle PL/SQL
+- 🌱 I’m currently learning Python, Nodejs & Oracle PL/SQL, Hadoop, Spark, Tableau
 - 🤔 I’m looking for opportunities for personal growth.
 - ⚡ Fun fact: Perseverance is an essential prerequisite for growth.
 
