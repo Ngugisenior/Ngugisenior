@@ -16,6 +16,7 @@
 <a href="https://www.reddit.com/user/Pyraxtechie">
   <img align="left" alt="My Reddit" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
+<img align="left" alt="SAP" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/josephmuiruri?png=true">
 <br/>
 <br/>
 
