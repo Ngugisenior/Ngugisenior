@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img src="https://github.com/Ngugisenior/Ngugisenior/blob/master/banner.png">
 
 <br/>
 <br/>
