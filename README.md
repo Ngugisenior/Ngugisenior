@@ -29,3 +29,10 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ngugisenior)](https://github.com/LordDashMe/github-contribution-stats/)
 ![sap devtoberfest](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/josephmuiruri)
 
+<div align="center">
+  <a href="#">
+  <img
+       alt="Joseph's Activity Graph" 
+       src="https://activity-graph.herokuapp.com/graph?username=Ngugisenior&custom_title=Ngugisenior&count_private=true" />
+  </a>
+</div>
