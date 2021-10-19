@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align="center">
   <a href="#">
-  <img style="border-radius:20px;"
+  <img style="border-radius:20px; overflow:hidden;"
        alt="Joseph's Activity Graph" 
        src="https://activity-graph.herokuapp.com/graph?username=Ngugisenior&custom_title=Ngugisenior&count_private=true" />
   </a>
