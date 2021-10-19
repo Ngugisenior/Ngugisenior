@@ -1,7 +1,12 @@
 ### Hi there 👋
+<div align="center">
+  <a href="#">
+  <img
+       alt="Joseph's Activity Graph" 
+       src="https://activity-graph.herokuapp.com/graph?username=Ngugisenior&custom_title=Ngugisenior&count_private=true" />
+  </a>
+</div>
 
-
-<br/>
 <br/>
 <a href="https://www.linkedin.com/in/ngugimuiruri/">
   <img align="left" alt="My LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -28,10 +33,4 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ngugisenior)](https://github.com/LordDashMe/github-contribution-stats/)
 ![sap devtoberfest](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/josephmuiruri)
 
-<div align="center">
-  <a href="#">
-  <img
-       alt="Joseph's Activity Graph" 
-       src="https://activity-graph.herokuapp.com/graph?username=Ngugisenior&custom_title=Ngugisenior&count_private=true" />
-  </a>
-</div>
+
