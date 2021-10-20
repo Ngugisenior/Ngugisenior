@@ -26,8 +26,8 @@
 - 🔭 I’m currently an:
     - IBM Z Student ambassador
     - Kaspersky Lab Student Ambassador
-- 🌱 I’m currently learning Python, Nodejs & Oracle PL/SQL, Hadoop, Spark, Tableau
-- 🤔 I’m looking for opportunities for personal growth.
+- 🌱 I’m currently learning Bash & Powershell Scripting, Python, Nodejs & Oracle PL/SQL, Hadoop, Spark, Tableau
+- 🤔 Passion for Data Engineering ETL processes & Business Process automations.
 - ⚡ Fun fact: Perseverance is an essential prerequisite for growth.
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ngugisenior)](https://github.com/LordDashMe/github-contribution-stats/)
