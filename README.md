@@ -3,7 +3,7 @@
   <a href="#">
   <img style="border-radius:20px; overflow:hidden;"
        alt="Joseph's Activity Graph" 
-       src="https://activity-graph.herokuapp.com/graph?username=Ngugisenior&custom_title=Ngugisenior&count_private=true" />
+       src="https://activity-graph.herokuapp.com/graph?username=Ngugisenior&custom_title=Ngugisenior&count_private=true&theme=react-dark" />
   </a>
 </div>
 
