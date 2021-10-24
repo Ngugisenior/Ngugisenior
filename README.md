@@ -8,7 +8,7 @@
 </div>
 
 <br/>
-<a href="https://www.linkedin.com/in/ngugimuiruri/">
+<a style="background-color:skyblue;" href="https://www.linkedin.com/in/ngugimuiruri/">
   <img align="left" alt="My LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/MuiruriPyrax">
@@ -26,7 +26,7 @@
 - 🔭 I’m currently an:
     - IBM Z Student ambassador
     - Kaspersky Lab Student Ambassador
-- 🌱 I’m currently learning Bash & Powershell Scripting, Python, Nodejs & Oracle PL/SQL, Hadoop, Spark, Tableau
+- 🌱 I’m currently learning Bash & Powershell Scripting, Python, Nodejs & Oracle PL/SQL, Hadoop, Spark, Tableau, Docker
 - 🤔 Passion for Data Engineering ETL processes & Business Process automations.
 - ⚡ Fun fact: Perseverance is an essential prerequisite for growth.
 
