@@ -27,7 +27,7 @@
     - IBM Z Student ambassador
     - Kaspersky Lab Student Ambassador
 - 🌱 I’m currently learning Bash & Powershell Scripting, Python, Nodejs & Oracle PL/SQL, Hadoop, Spark, Tableau, Docker
-- 🤔 Passion for Data Engineering ETL processes & Business Process automations.
+- 🤔 Passion for Data Engineering ETL processes, SAP Data Services ETL & Business Process automations.
 - ⚡ Fun fact: Perseverance is an essential prerequisite for growth.
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ngugisenior)](https://github.com/LordDashMe/github-contribution-stats/)
