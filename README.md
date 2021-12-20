@@ -1,21 +1,6 @@
 ### Hi there 👋
 
 <br/>
-<a style="background-color:skyblue;" href="https://www.linkedin.com/in/ngugimuiruri/">
-  <img align="left" alt="My LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/MuiruriPyrax">
-  <img align="left" alt="My Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/sillicon.savannah/">
-  <img align="left" alt="My Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/Pyraxtechie">
-  <img align="left" alt="My Reddit" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<br/>
-<br/>
-
 - 🔭 I’m currently an:
     - IBM Z Student ambassador
     - Kaspersky Lab Student Ambassador
