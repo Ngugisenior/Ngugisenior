@@ -9,8 +9,6 @@
 - ⚡ Fun fact: Perseverance is an essential prerequisite for growth.
 
 
-![sap devtoberfest](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/josephmuiruri)
-
 <p align = "center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ngugisenior&count_private=true&show_icons=true&theme=dark&line_height=27" />
@@ -19,6 +17,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngugisenior&show_icons=true&theme=dark" />
 </a>
 </p>
+
+<p align = "center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/josephmuiruri" />
+</a>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ngugisenior&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
+</p> 
 
 <div align="center">
   <a href="#">
