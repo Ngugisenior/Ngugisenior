@@ -11,9 +11,14 @@
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ngugisenior)](https://github.com/LordDashMe/github-contribution-stats/)
 ![sap devtoberfest](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/josephmuiruri)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ngugisenior&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngugisenior)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ngugisenior&count_private=true&show_icons=true&theme=dark&line_height=27" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngugisenior&show_icons=true&theme=dark" />
+</a>
+</p>
 
 <div align="center">
   <a href="#">
