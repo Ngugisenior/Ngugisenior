@@ -17,13 +17,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ngugisenior&show_icons=true&theme=dark" />
 </a>
 </p>
-
-<p align = "center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/josephmuiruri" />
-</a>
+<br>
+<div style="display:flex; width:100%;justify-content: space-evenly; flex-wrap:none;">
+  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/josephmuiruri" /> 
+    
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ngugisenior&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
-</p> 
+</div> 
 
 <div align="center">
   <a href="#">
@@ -32,6 +31,8 @@
        src="https://activity-graph.herokuapp.com/graph?username=Ngugisenior&custom_title=Ngugisenior&count_private=true&theme=react-dark" />
   </a>
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ngugisenior&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
