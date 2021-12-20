@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<br/>
+
 - 🔭 I’m currently an:
     - IBM Z Student ambassador
     - Kaspersky Lab Student Ambassador
@@ -8,7 +8,7 @@
 - 🤔 Passion for Data Engineering ETL processes, SAP Data Services ETL & Business Process automations.
 - ⚡ Fun fact: Perseverance is an essential prerequisite for growth.
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ngugisenior)](https://github.com/LordDashMe/github-contribution-stats/)
+
 ![sap devtoberfest](https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/josephmuiruri)
 
 <p align = "center">
